@@ -1,12 +1,12 @@
 # Escultor 3D
 
-## 🎨 Visão Geral do Projeto
+## Visão Geral do Projeto
 
 O **Escultor 3D** é um programa interativo desenvolvido em C++ com a biblioteca Qt para a criação e manipulação de esculturas tridimensionais. Inspirado na ideia de um "Paint 3D", ele permite aos usuários visualizar e modificar objetos em um ambiente virtual de forma intuitiva, utilizando uma abstração da classe `Sculptor`. Este projeto foi desenvolvido como parte das atividades da disciplina de Programação Avançada.
 
 ---
 
-## ✨ Funcionalidades Principais
+## Funcionalidades Principais
 
 * **Criação Personalizada:** Instanciação de objetos `Sculptor` com dimensões definidas pelo usuário.
 * **Visualização 3D:** Permite a visualização do objeto criado, oferecendo uma representação clara da escultura.
@@ -17,7 +17,7 @@ O **Escultor 3D** é um programa interativo desenvolvido em C++ com a biblioteca
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Linguagem de Programação:** C++
 * **Framework de UI:** Qt (para a interface gráfica e interação)
@@ -26,7 +26,7 @@ O **Escultor 3D** é um programa interativo desenvolvido em C++ com a biblioteca
 
 ---
 
-## 🚀 Como Compilar e Executar o Projeto
+## Como Compilar e Executar o Projeto
 
 Para configurar e executar o Escultor 3D em sua máquina, siga as instruções abaixo:
 
