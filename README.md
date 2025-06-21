@@ -81,3 +81,12 @@ Execute o programa:
 ./seu_executavel_do_escultor3d
 # Por exemplo: ./Escultor3d (em Linux/macOS)
 # Ou Escultor3d.exe (em Windows)
+``` 
+
+## Autores
+
+* [Deyvid Macedo](https://github.com/deyvidmacedo109)
+
+## Links
+
+* [Projeto Escultor 3D - Agostinho Brito](https://agostinhobritojr.github.io/curso/progav-dca3303/escultor.html)
